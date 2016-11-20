@@ -12,6 +12,7 @@ A (soon-to-be) complete list of languages designed for code-golfing.
 | [GolfScript](http://www.golfscript.com/golfscript/) | ??? | Stack-based | None | [Official](http://www.golfscript.com/golfscript/builtin.html) | [Yes](http://www.golfscript.com/golfscript/quickref.html) | [Official](https://copy.sh/golfscript/) |
 | [MATL](https://github.com/lmendo/MATL) | [Luis Mendo](https://github.com/lmendo) | Stack-based | None | [Official](https://github.com/lmendo/MATL/blob/master/doc/MATL_spec.pdf) (PDF) | [Yes](https://github.com/lmendo/MATL/blob/master/doc/function_table.pdf) | [Try it online!](http://matl.tryitonline.net/) |
 | [05AB1E](https://github.com/Adriandmen/05AB1E) | [Adraindmen](https://github.com/Adriandmen) | Stack-based | None | [GitHub](https://github.com/Adriandmen/05AB1E) | [Yes](https://github.com/Adriandmen/05AB1E/blob/master/Info.txt) | [Try it online!](http://05ab1e.tryitonline.net/) |
+| [2sable](https://github.com/Adriandmen/2sable) | [Adraindmen](https://github.com/Adriandmen) | Stack-based | None | [GitHub](https://github.com/Adriandmen/2sable) | [Yes](https://github.com/Adriandmen/2sable/blob/master/Info.txt) | [Try it online!](http://2sable.tryitonline.net/) |
 
 ---
 # How to contribute
