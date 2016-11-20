@@ -1,0 +1,7 @@
+- Language name: MyLang
+- Source: https://github.com/myusername/mylang
+- Creator: MyUsername
+- Type: Stack-based/Prefix/Infix/Tacit/Other
+- Specialty: What is the language specifically designed to handle? Math, strings, ASCII art, etc. Pick zero or one please.
+- Docs: https://mylang.readthedocs.io/en/latest/
+- Online interpreter: http://mylang.tryitonline.net/
