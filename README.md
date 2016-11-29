@@ -6,7 +6,7 @@ A (soon-to-be) complete list of languages designed for code-golfing.
 
 | Name | Creator | Type | Specialty | Docs | Quick ref | Online interpreter |
 | --- | --- | --- | --- | --- | --- | --- |
-| [05AB1E](https://github.com/Adriandmen/05AB1E) | [Adraindmen](https://github.com/Adriandmen) | Stack-based | None | [GitHub](https://github.com/Adriandmen/05AB1E) | [Yes](https://github.com/Adriandmen/05AB1E/blob/master/Info.txt) | [Try it online!](http://05ab1e.tryitonline.net/) |
+| [05AB1E](https://github.com/Adriandmen/05AB1E) | [Adriandmen](https://github.com/Adriandmen) | Stack-based | None | [GitHub](https://github.com/Adriandmen/05AB1E) | [Yes](https://github.com/Adriandmen/05AB1E/blob/master/Info.txt) | [Try it online!](http://05ab1e.tryitonline.net/) |
 | [Actually](https://github.com/Mego/Seriously) | [Ryan R.](https://github.com/Mego) | Stack-based | None | [GitHub](https://github.com/Mego/Seriously) | [Yes](https://github.com/Mego/Seriously/blob/master/docs/commands.txt) | [Try it online!](http://actually.tryitonline.net/) |
 | [Arcyóu](https://github.com/Nazek42/arcyou) | [Benjamin Kulas](https://github.com/Nazek42) | Functional | None | [GitHub Wiki](https://github.com/Nazek42/arcyou/wiki) | See docs | [Try it online!](http://arcyou.tryitonline.net) |
 | [Brachylog](https://github.com/JCumin/Brachylog) | [Julien Cumin](https://github.com/JCumin) | Declarative | None | [GitHub Wiki](https://github.com/JCumin/Brachylog/wiki) | See docs | [Try it online!](http://brachylog.tryitonline.net/) |
