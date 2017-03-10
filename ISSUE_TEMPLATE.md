@@ -5,4 +5,4 @@
 - Specialty: What is the language specifically designed to handle? Math, strings, ASCII art, etc. Pick zero or one please.
 - Docs: https://mylang.readthedocs.io/en/latest/
 - Quick-ref: https://github.com/myusername/mylang/blob/master/info.txt
-- Online interpreter: http://mylang.tryitonline.net/
+- Online interpreter: http://tio.run/nexus/mylang
