@@ -35,7 +35,7 @@ A (soon-to-be) complete list of languages designed for code-golfing.
 | [REBmu](https://github.com/hostilefork/rebmu) | [Brian Dickens](https://github.com/hostilefork) | Infix | None | [Official](http://rebmu.hostilefork.com/) | No? | None |
 | [Retina](https://github.com/m-ender/retina) | [Martin Ender](https://github.com/m-ender) | Regex-based | String manipulation | [GitHub Wiki](https://github.com/m-ender/retina/wiki/The-Language) | See docs | [Try it online!](http://retina.tryitonline.net/) |
 | [TeaScript](https://github.com/vihanb/TeaScript) | [Vihan Bhargava](https://github.com/vihanb) | Infix | None | [Read the Docs](http://teascript.rtfd.org/) | See docs | [Official](http://vihanserver.tk/p/TeaScript/) |
-| [V](https://github.com/DJMcMayhem/V) | [DJMcMayhem](https://github.com/DJMcMayhem) | Concatenative | 2D strings | [GitHub Wiki](https://github.com/DJMcMayhem/V/wiki) | [Yes](https://github.com/DJMcMayhem/V/wiki/Normal-Mode-Commands) | [Try it online!](http://v.tryitonline.net/) |
+| [V](https://github.com/DJMcMayhem/V) | [DJMcMayhem](https://github.com/DJMcMayhem) | Imperative | 2D strings | [GitHub Wiki](https://github.com/DJMcMayhem/V/wiki) | [Yes](https://github.com/DJMcMayhem/V/wiki/Normal-Mode-Commands) | [Try it online!](http://v.tryitonline.net/) |
 | [Vitsy](https://github.com/VTCAKAVSMoACE/Vitsy/) | [VTCAKAVSMoACE](https://github.com/VTCAKAVSMoACE) | Stack-based | None | [Esolangs Wiki](http://esolangs.org/wiki/Vitsy) | See docs | [Try it online!](http://vitsy.tryitonline.net/) |
 
 ---
