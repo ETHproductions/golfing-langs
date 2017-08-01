@@ -41,7 +41,7 @@ A (soon-to-be) complete list of languages designed for code-golfing.
 | [Pyth](https://github.com/isaacg1/pyth) | [isaacg](https://github.com/isaacg1) | Prefix | None | [Read the Docs](https://pyth.readthedocs.io/en/latest/) | [Yes](http://pyth.herokuapp.com/rev-doc.txt) | [Official](http://pyth.herokuapp.com/) |
 | [REBmu](https://github.com/hostilefork/rebmu) | [Brian Dickens](https://github.com/hostilefork) | Infix | None | [Official](http://rebmu.hostilefork.com/) | No? | None |
 | [Retina](https://github.com/m-ender/retina) | [Martin Ender](https://github.com/m-ender) | Regex-based | String manipulation | [GitHub Wiki](https://github.com/m-ender/retina/wiki/The-Language) | See docs | [TIO](https://tio.run/#retina) |
-| [ShinyLisp](https://github.com/Mercerenies/shiny-lisp) | [Silvio Mayolo](https://github.com/Mercerenies) | Lisp-based (prefix) | None | No | No | None |
+| [ShinyLisp](https://github.com/Mercerenies/shiny-lisp) | [Silvio Mayolo](https://github.com/Mercerenies) | Lisp-based (prefix) | List manipulation | [GitHub Wiki](https://github.com/Mercerenies/shiny-lisp/wiki) | No | None |
 | [shortC](https://github.com/aaronryank/shortC) | [Aaron Ryan](https://github.com/aaronryank) | C-based (infix) | None | [GitHub](https://github.com/aaronryank/shortC) | See docs | [TIO](https://tio.run/#shortC)
 | [SOGL](https://github.com/dzaima/SOGL) | [dzaima](https://github.com/dzaima) | Stack-based | Compressing strings | No | [Yes](https://github.com/dzaima/SOGL/blob/master/P5ParserV0_10/data/charDefs.txt) | None
 | [TeaScript](https://github.com/vihanb/TeaScript) | [Vihan Bhargava](https://github.com/vihanb) | JS-based (infix) | None | [Read the Docs](http://teascript.rtfd.org/) | See docs | [Official](http://vihanserver.tk/p/TeaScript/) |
