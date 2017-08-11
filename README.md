@@ -1,5 +1,5 @@
 # golfing-langs
-A (soon-to-be) complete list of languages designed for code-golfing.
+A (mostly) complete list of languages designed for code-golfing.
 
 ---
 # List of golfing languages
@@ -21,9 +21,11 @@ A (soon-to-be) complete list of languages designed for code-golfing.
 | [Fireball](https://github.com/okx-code/Fireball) | [Okx](https://github.com/okx-code) | Stack-based | None | [GitHub Wiki](https://github.com/RikerW/okx-code/Fireball/wiki) | [Yes](https://github.com/okx-code/Fireball/wiki/Operations) | [TIO](https://tio.run/#fireball) | 
 | [FlogScript](https://esolangs.org/wiki/FlogScript) | Zzo38 | Stack-based | None | [Esolangs Wiki](https://esolangs.org/wiki/FlogScript) | No? | None? |
 | [Fuzzy Octo Guacamole](https://github.com/RikerW/Fuzzy-Octo-Guacamole) | [Riker Wachtler](https://github.com/RikerW) | Stack-based | None | [GitHub Wiki](https://github.com/RikerW/Fuzzy-Octo-Guacamole/wiki) | See docs | None | 
+| [Gaia](https://github.com/splcurran/Gaia) | [Business Cat](https://github.com/splcurran) | Stack-based | None | [GitHub Wiki](https://github.com/splcurran/Gaia/wiki/Overview) | [Yes](https://github.com/splcurran/Gaia/wiki/Operators) | [TIO](https://tio.run/#gaia) |
 | [GolfASM](https://github.com/alexj136/GolfASM) | [Alex Jeffery](https://github.com/alexj136) | Imperative | None | None | No | None |
 | [GolfScript](http://www.golfscript.com/golfscript/) | Darren Smith | Stack-based | None | [Official](http://www.golfscript.com/golfscript/builtin.html) | [Yes](http://www.golfscript.com/golfscript/quickref.html) | [Official](https://copy.sh/golfscript/) |
 | [GS2](https://github.com/nooodl/gs2) | [Lynn](https://github.com/nooodl) | Stack-based | None | [GitHub](https://github.com/nooodl/gs2) | See docs | [TIO](https://tio.run/#gs2) |
+| [Husk](https://github.com/barbuz/Husk) | [barbuz](https://github.com/barbuz) | Functional | None | [GitHub Wiki](https://github.com/barbuz/Husk/wiki) | [WIP](https://github.com/barbuz/Husk/wiki/Commands) | [TIO](https://tio.run/#husk) |
 | [Japt](https://github.com/ETHproductions/japt) | [ETHproductions](https://github.com/ETHproductions) | JS-based (infix) | None | [At interpreter](http://ethproductions.github.io/japt/) | See docs | [Official](http://ethproductions.github.io/japt/)
 | [Jelly](https://github.com/DennisMitchell/jelly) | [Dennis Mitchell](https://github.com/DennisMitchell/) | Tacit | None | [GitHub Wiki](https://github.com/DennisMitchell/jelly/wiki) | [Yes](https://github.com/DennisMitchell/jelly/wiki/Atoms) | [TIO](https://tio.run/#jelly) |
 | [Jellyfish](https://github.com/iatorm/jellyfish) | [Ilkka Törmä](https://github.com/iatorm/) | Two-dimensional | None | [GitHub](https://github.com/iatorm/jellyfish/blob/master/doc.md) | [Yes](https://github.com/iatorm/jellyfish/blob/master/stdlib.md) | [TIO](https://tio.run/#jellyfish) |
