@@ -25,7 +25,7 @@ A (mostly) complete list of languages designed for code-golfing.
 | [Gaia](https://github.com/splcurran/Gaia) | [Business Cat](https://github.com/splcurran) | Stack-based | None | [GitHub Wiki](https://github.com/splcurran/Gaia/wiki/Overview) | [Yes](https://github.com/splcurran/Gaia/wiki/Operators) | [TIO](https://tio.run/#gaia) |
 | [GolfASM](https://github.com/alexj136/GolfASM) | [Alex Jeffery](https://github.com/alexj136) | Imperative | None | [GitHub](https://github.com/alexj136/GolfASM) | No | None |
 | [GolfScript](http://www.golfscript.com/golfscript/) | Darren Smith | Stack-based | None | [Official](http://www.golfscript.com/golfscript/builtin.html) | [Yes](http://www.golfscript.com/golfscript/quickref.html) | [TIO](https://tio.run#golfscript) |
-| [Gulp](https://github.com/Areallycoolusername/Gulp-lang) | Areallycoolusername| Stack-based | None | None |
+| [Gulp](https://github.com/Areallycoolusername/Gulp-lang) | Areallycoolusername| Deque-based | None | None |
 | [GS2](https://github.com/nooodl/gs2) | [nooodl](https://github.com/nooodl) | Stack-based | None | [GitHub](https://github.com/nooodl/gs2) | See docs | [TIO](https://tio.run/#gs2) |
 | [Husk](https://github.com/barbuz/Husk) | [barbuz](https://github.com/barbuz) | Functional | None | [GitHub Wiki](https://github.com/barbuz/Husk/wiki) | [Yes](https://github.com/barbuz/Husk/wiki/Commands) | [TIO](https://tio.run/#husk) |
 | [JAEL](https://github.com/eduardoHoefel/JAEL) | [Eduardo Hoefel](https://github.com/eduardoHoefel/) | Stack- and tape-based | None | [GitHub Wiki](https://github.com/eduardoHoefel/JAEL/wiki) | [Yes](https://github.com/eduardoHoefel/JAEL/blob/master/docs/cheatsheet.txt) | [TIO](https://tio.run/#jael) |
