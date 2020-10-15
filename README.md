@@ -60,6 +60,7 @@ A (mostly) complete list of languages designed for code-golfing.
 | [TeaScript](https://github.com/vihanb/TeaScript) | [Vihan Bhargava](https://github.com/vihanb) | JS-based (infix) | None | [Read the Docs](http://teascript.rtfd.org/) | See interpreter | [Official](https://vihan.org/p/TeaScript/) |
 | [V](https://github.com/DJMcMayhem/V) | [James Harrington](https://github.com/DJMcMayhem) | Imperative | 2D strings | [GitHub Wiki](https://github.com/DJMcMayhem/V/wiki) | See docs | [TIO](https://tio.run/#v) |
 | [Vitsy](https://github.com/VTCAKAVSMoACE/Vitsy/) | [Addison Crump](https://github.com/VTCAKAVSMoACE) | Stack-based | None | [Esolangs Wiki](http://esolangs.org/wiki/Vitsy) | [Yes](http://esolangs.org/wiki/Vitsy#Commands) | [TIO](https://tio.run/#vitsy) |
+| [Integral](https://github.com/nph278/integral) | [nph](https://github.com/nph278) | Stack-based | String manipulation | None | [Yes](http://nph278.github.io/integral/docs/table.html) | [Official](http://nph278.github.io/integral) |
 
 ---
 # How to contribute
